@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "KapchatTwoLibrary",//KapchatTwoLibrary
+    name: "KapchatTwoLibrary",
     platforms: [
             .iOS(.v16) // iOS version target
         ],
