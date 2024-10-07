@@ -1,0 +1,6 @@
+framework module KapChatBotSDK {
+  umbrella header "KapChatBotSDK.h"
+  export *
+
+  module * { export * }
+}
